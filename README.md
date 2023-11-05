@@ -2,11 +2,11 @@
 
 Welcome to my resume repository! Here, you can find my latest resume and download it for your reference.
 
-![sample image]()
+![sample image](https://github.com/Levi-Chinecherem/my_resume/blob/main/resume.png)
 
 ## Resume Files
 
-- [Download My Latest Resume](link_to_the_resume.docx)
+- [Download My Latest Resume](https://github.com/Levi-Chinecherem/my_resume/blob/main/levi_resume_11_03_2023.docx)
 
 ## How to Download
 
